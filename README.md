@@ -9,4 +9,4 @@ A sample MRI and ground truth dataset is provided here for testing.
 
 This project is prepared by the following individuals:
 
-Yeasin Mia, Md. Shuvo Islam, Shafeen Ebna Hossain, Munhtasim Ashab Dehan 
+Yeasin Mia, Md. Shuvo Islam, Shafeen Ebna Hossain, Muhtasim Ashab Dehan 
